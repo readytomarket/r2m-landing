@@ -1,0 +1,19 @@
+{
+  "name": "R2M — Road to Market",
+  "short_name": "R2M",
+  "description": "Canadian Export Management Company turning Canadian quality into global opportunity.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a1b33",
+  "theme_color": "#0a1b33",
+  "lang": "en-CA",
+  "icons": [
+    {
+      "src": "assets/r2m-logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
